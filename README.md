@@ -1,19 +1,22 @@
-# Planner App
+# Planner
 
-## Demo
+A very simple planner to keep track of your routines/todos/notes. Stores data only in your browser.
 
-[Planner app](https://websymphony.github.io/planner)
+## Demo -> [Planner](https://websymphony.github.io/planner)
 
-### Depends on:
+### Built using:
 
 * React
 * Mobx
 * localforage
+* styled-components
+* rebass
 * @reach/router
 
-Inspiration: https://twitter.com/ryanflorence/status/933139645440729088
+### To run on your machine:
 
-### To Run on your machine
+1. Download the repo.
+2. Run `yarn install`
+3. Then run `yarn start`
 
-* yarn install
-* yarn start
+#### Inspiration: https://twitter.com/ryanflorence/status/933139645440729088
