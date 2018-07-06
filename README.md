@@ -4,7 +4,7 @@
 
 [Planner app](https://websymphony.github.io/planner)
 
-* Depends on: *
+### Depends on:
 
 * React
 * Mobx
@@ -13,7 +13,7 @@
 
 Inspiration: https://twitter.com/ryanflorence/status/933139645440729088
 
-### Running on your machine
+### To Run on your machine
 
 * yarn install
 * yarn start
