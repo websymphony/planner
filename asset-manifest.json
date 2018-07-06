@@ -1,0 +1,11 @@
+{
+  "runtime~main.js": "/planner/static/js/runtime~main.a06b8a8d.js",
+  "runtime~main.js.map": "/planner/static/js/runtime~main.a06b8a8d.js.map",
+  "vendors.css": "/planner/static/css/vendors.4202dafa.chunk.css",
+  "vendors.js": "/planner/static/js/vendors.4096e4c1.chunk.js",
+  "vendors.js.map": "/planner/static/js/vendors.4096e4c1.chunk.js.map",
+  "main.css": "/planner/static/css/main.333c447f.chunk.css",
+  "main.js": "/planner/static/js/main.564bbe0b.chunk.js",
+  "main.js.map": "/planner/static/js/main.564bbe0b.chunk.js.map",
+  "index.html": "/planner/index.html"
+}
